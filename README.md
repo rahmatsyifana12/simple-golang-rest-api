@@ -7,3 +7,7 @@
 ```
 go build && simple-golang-rest-api
 ```
+or
+```
+go build && ./simple-golang-rest-api
+```
